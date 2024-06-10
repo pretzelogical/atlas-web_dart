@@ -1,2 +1,2 @@
 # atlas-web_dart
-Learning dart for the full stacl web developer spec at Atlas School
+Learning dart for the full stack web developer spec at Atlas School
