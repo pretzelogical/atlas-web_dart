@@ -5,6 +5,9 @@ class Password {
     this._password = password;
   }
 
+  String get password => this._password;
+  set password(String val) => this._password = val;
+
   bool isValid() {
     if (this._password.length < 8 || this._password.length > 16) {
       return false;
